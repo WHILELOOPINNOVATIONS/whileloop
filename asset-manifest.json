@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WHILELOOPINNOVATIONS/whileloop/static/css/main.a67d81b5.chunk.css",
+    "main.js": "/WHILELOOPINNOVATIONS/whileloop/static/js/main.feb03086.chunk.js",
+    "main.js.map": "/WHILELOOPINNOVATIONS/whileloop/static/js/main.feb03086.chunk.js.map",
+    "runtime-main.js": "/WHILELOOPINNOVATIONS/whileloop/static/js/runtime-main.d9a9b5c1.js",
+    "runtime-main.js.map": "/WHILELOOPINNOVATIONS/whileloop/static/js/runtime-main.d9a9b5c1.js.map",
+    "static/js/2.60b3292b.chunk.js": "/WHILELOOPINNOVATIONS/whileloop/static/js/2.60b3292b.chunk.js",
+    "static/js/2.60b3292b.chunk.js.map": "/WHILELOOPINNOVATIONS/whileloop/static/js/2.60b3292b.chunk.js.map",
+    "index.html": "/WHILELOOPINNOVATIONS/whileloop/index.html",
+    "precache-manifest.fef374a23c570a3d4e9201154ac405ef.js": "/WHILELOOPINNOVATIONS/whileloop/precache-manifest.fef374a23c570a3d4e9201154ac405ef.js",
+    "service-worker.js": "/WHILELOOPINNOVATIONS/whileloop/service-worker.js",
+    "static/css/main.a67d81b5.chunk.css.map": "/WHILELOOPINNOVATIONS/whileloop/static/css/main.a67d81b5.chunk.css.map",
+    "static/js/2.60b3292b.chunk.js.LICENSE.txt": "/WHILELOOPINNOVATIONS/whileloop/static/js/2.60b3292b.chunk.js.LICENSE.txt",
+    "static/media/whileloop.png": "/WHILELOOPINNOVATIONS/whileloop/static/media/whileloop.bfc6b11b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a9b5c1.js",
+    "static/js/2.60b3292b.chunk.js",
+    "static/css/main.a67d81b5.chunk.css",
+    "static/js/main.feb03086.chunk.js"
+  ]
+}
